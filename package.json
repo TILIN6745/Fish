@@ -1,7 +1,7 @@
 {
-"name": "Sisked-BOT",
+"name": "Preciosa-BOT",
 "version": "3.8.13", 
-"description": "BY SISKED",
+"description": "BY PRECIOSA",
 "main": "index.js",
 "type": "module",
     
@@ -19,7 +19,7 @@
     
 "homepage": "https://github.com/GataNina-Li/GataBot-MD",
 "author": {
-"name": "SISKED" },
+"name": "PRECIOSA" },
     
 "repository": {
 "type": "git",
