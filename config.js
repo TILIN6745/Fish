@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["584123989549", 'sisket', true], //sisket
-["584123989549", 'sisked', true], //sisked
-["584123989549"]]
+["5219831306428", 'creadora', true], //sisket
+["5219831306428", 'dueña BotPreciosa', true], //sisked
+["5219831306428"]]
 
-global.mods = ["584123989549"]
-global.prems = ["584123989549"]
+global.mods = ["5219831306428"]
+global.prems = ["5219831306428"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,18 +112,18 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["584123989549", 'sisket', 1], 
-["584123989549", 'sisked', 1],  
-["584123989549", 'siskedd', 1]]
+["5219831306428", 'bot', 1], 
+["5219831306428", 'bot', 1],  
+["5219831306428", 'bot', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
-global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se aplicará sólo si su whasapp no tiene descripción)
+global.desc2 = '' // Add long description (90 caractres max) (Este parámetro aplicará sólo si su whasapp no tiene descripción)
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝙎𝙞𝙨𝙠𝙚𝙙-𝘽𝙤𝙩"
-global.author = "𝙎𝙞𝙨𝙠𝙚𝙙-𝘽𝙤𝙩"
+global.packname = "𝘽𝙊𝙏 𝙋𝙍𝙀𝘾𝙄𝙊𝙎𝘼"
+global.author = "𝘽𝙊𝙏 𝙋𝙍𝙀𝘾𝙄𝙊𝙎𝘼"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝙎𝙞𝙨𝙠𝙚𝙙-𝘽𝙤𝙩"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝙎𝙞𝙨𝙠𝙚𝙙-𝘽𝙤𝙩"
+global.gt = "𝘽𝙊𝙏 𝙋𝙍𝙀𝘾𝙄𝙊𝙎𝘼"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,9 +157,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝙎𝙞𝙨𝙠𝙚𝙙-𝘽𝙤𝙩"
-global.igfg = "𝙎𝙞𝙨𝙠𝙚𝙙-𝘽𝙤𝙩"
-global.nomorown = "584123989549"
+global.wm = "𝘽𝙊𝙏 𝙋𝙍𝙀𝘾𝙄𝙊𝙎𝘼"
+global.igfg = "𝘽𝙊𝙏 𝙋𝙍𝙀𝘾𝙄𝙊𝙎𝘼"
+global.nomorown = "5219831306428"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
